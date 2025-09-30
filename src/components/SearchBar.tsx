@@ -68,7 +68,7 @@ export function SearchBar() {
                     type="submit"
                     className="text-white absolute end-2.5 bottom-2.5 bg-orange-600 hover:bg-orange-800 focus:ring-4 focus:outline-none focus:ring-orange-300 font-medium rounded-lg text-sm px-4 py-2 dark:bg-orange-600 dark:hover:bg-orange-700 dark:focus:ring-orange-800"
                 >
-                    Search
+                    Buscar
                 </button>
             </div>
         </form>
