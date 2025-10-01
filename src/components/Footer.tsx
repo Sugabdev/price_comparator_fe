@@ -13,12 +13,12 @@ export function Footer() {
                 theme === 'light' ? (
                     <div className="flex gap-4 justify-center items-center">
                         <img
-                            src="/public/github-white.svg"
+                            src="/github-white.svg"
                             alt="Github logo"
                             className="size-8 hover:scale-110"
                         />
                         <img
-                            src="/public/linkedin-white.svg"
+                            src="/linkedin-white.svg"
                             alt="Linkedin logo"
                             className="size-8 hover:scale-110"
                         />
@@ -27,7 +27,7 @@ export function Footer() {
                     <div className="flex gap-4 justify-center items-center">
                         <a href="https://github.com/Sugabdev">
                             <img
-                                src="/public/github-white.svg"
+                                src="/github-white.svg"
                                 alt="Github logo"
                                 className="size-8 hover:scale-110"
 
@@ -35,7 +35,7 @@ export function Footer() {
                         </a>
                         <a href="www.linkedin.com/in/sugabdev">
                             <img
-                                src="/public/linkedin-white.svg"
+                                src="/linkedin-white.svg"
                                 alt="Linkedin logo"
                                 className="size-8 hover:scale-110"
                             />
